@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">EjercicioEquiposJugadoresFinal</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="establecerUrl">Introduce tu URL</string>
+    <string name="urls">URL\'s</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!--Strings Equipo-->
+    <string name="nombreE">Nombre del Equipo: </string>
+    <string name="ciudadE">Ciudad del Equipo: </string>
+    <string name="estadioE">Estadio del Equipo: </string>
+    <string name="aforoE">Aforo del Equipo: </string>
+    <string name="editarSelectedE">Editar Equipo</string>
+    <string name="editarE">Editar</string>
+    <string name="borrarSelectedE">Borrar Equipo</string>
+    <string name="verJugadoresSelected">Ver Jugadores</string>
+    <!--Error-->
+    <string name="errorFoto">Debes elegir una foto!!</string>
+    <string name="errorNombre">Debes rellenar el nombre!!</string>
+    <string name="errorCiudad">Debes rellenar la ciudad!!</string>
+    <string name="errorEstadio">Debes rellenar el estadio!!</string>
+    <string name="errorAforo">Debes rellenar el aforo!!</string>
+    <!--Borrar Equipo-->
+    <string name="borrarEquipoCheck">¿Está seguro de que desea borrar este equipo? </string>
+    <string name="borrarEquipoTitle">Borrar Equipo</string>
+    <string name="borrarEquipoSi">Si</string>
+    <string name="borrarEquipoNo">No</string>
+    <!--Editar Equipo-->
+    <string name="editarEquipoCheck">¿Está seguro de que desea editar este equipo? </string>
+    <string name="editarEquipoTitle">Editar Equipo</string>
+    <string name="editarEquipoSi">Si</string>
+    <string name="editarEquipoNo">No</string>
+    <string name="crearE">Crear Equipo</string>
+
+    <!--Strings Jugadores-->
+    <string name="crearJ">Crear Jugador</string>
+    <string name="nombreJ">Nombre del Jugador</string>
+    <string name="apellidosJ">Apellidos del Jugador</string>
+    <!--Error-->
+    <string name="errorNombreJ">Debes rellenar el nombre!!</string>
+    <string name="errorApellidos">Debes rellenar el apellido!!</string>
+    <!--Borrar Jugador-->
+    <string name="borrarJugadorCheck">¿Está seguro de que desea borrar este jugador? </string>
+    <string name="borrarJugadorTitle">Borrar Jugador</string>
+    <string name="borrarJugadorSi">Si</string>
+    <string name="borrarJugadorNo">No</string>
+    <!--Editar Jugador-->
+    <string name="editarJugadorCheck">¿Está seguro de que desea editar este jugador? </string>
+    <string name="editarJugadorTitle">Editar Jugador</string>
+    <string name="editarJugadorSi">Si</string>
+    <string name="editarJugadorNo">No</string>
+
+
+</resources>
